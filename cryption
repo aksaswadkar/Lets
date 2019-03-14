@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#why to use LINUX?
 while [ $# == 0 ];
 do
 echo "No arguments given"
